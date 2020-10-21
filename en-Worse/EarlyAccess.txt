@@ -1,8 +1,1 @@
-{
-	strings:
-	{
-	"EARLY_ACCESS_DISCLAIMER": "Thank you for playing Risk of Rain 2! \r\n\r\nPlease remember that RoR2 is still in active development during Early Access! You may run into missing or partially complete features <sprite name=\"WIP\">.\r\n\r\nPlease send us feedback or bug reports at contact@hopoogames.com. You can also join us in our official Discord channel, accessible under 'Music & More'. \r\n\r\nSee you on the planet.\r\n\r\n<i>- Hopoo Games<\/i>",
-	"EARLY_ACCESS_LORE" : "<style=cMono>\r\nWelcome to DataScraper (v3.1.53 \u2013 beta branch)\r\n$ Scraping memory... error.\r\n$ Resolving... error.\r\n$ Combing for relevant data...\r\nError!\r\nOutputting error log...\r\n<\/style>\r\n\r\nThere seems to be no data. Please retry again.\r\n"
-	}
-}
-
+{"strings":{"EARLY_ACCESS_DISCLAIMER":"Thank you for playing 2 which is not dangerous!\r\n\r\nRoR2 is still an active improvement on first access. < does not exist or is partially named \"WIP>.\r\n\r\ncontact@hopoogames message to find comments and error messages on the website. Join us for official dissoding channels, music, etc.\r\n\r\nI'll see you on the floor.\r\n\r\n<i> game</i>","EARLY_ACCESS_LORE":"<>\r\nWelcome to data (v3.1.53 - Beta Branch)\r\n$ Memory scraper ... Error.\r\n$ solution ... Error.\r\n$ Data connection ...\r\nError!\r\nPrint Error...\r\n</style>\r\n\r\nThe data doesn't seem to exist. Try again.\r\n"}}

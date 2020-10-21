@@ -1,17 +1,1 @@
-{
-	"strings":
-	{
-		"OBJECTIVE_TITLE" : "Objective:",
-		"OBJECTIVE_FIND_TELEPORTER": "Find and activate the <style=cDeath>Teleporter <sprite name=\"TP\" tint=1></style>",
-		"OBJECTIVE_CHARGE_TELEPORTER": "Charge the <style=cDeath>Teleporter <sprite name=\"TP\" tint=1></style> ({0}%)",
-		"OBJECTIVE_CHARGE_TELEPORTER_OOB": "Enter the <style=cDeath>Teleporter zone!</style> ({0}%)",
-		"OBJECTIVE_FINISH_TELEPORTER": "Proceed through the <style=cDeath>Teleporter <sprite name=\"TP\" tint=1></style>",
-		"OBJECTIVE_DEFEAT_BOSS": "Defeat the boss!",
-		"OBJECTIVE_GOLDSHORES_ACTIVATE_BEACONS" :  "Rebuild the Halcyon Beacons({0}/{1})",
-		"OBJECTIVE_GOLDSHORES_DEFEAT_BOSS" :  "Defeat {0},{1}",
-		"OBJECTIVE_WEEKLYRUN_DESTROY_CRYSTALS" : "Destroy <color=#f37aff>Time Crystals</color> ({0}/{1})",
-		"OBJECTIVE_CLEAR_ARENA" : "Activate all Cell Vents ({0}/{1})",
-		"OBJECTIVE_ARENA_CHARGE_CELL" : "Breach the Cell ({0}%)",
-		"OBJECTIVE_SELFDESTRUCT_ESCAPE" : "Moon Detonation Imminent"
-	}
-}
+{"strings":{"OBJECTIVE_TITLE":"Goal:","OBJECTIVE_FIND_TELEPORTER":"<This < TP'Tint-1></style>>\"<\"","OBJECTIVE_CHARGE_TELEPORTER":"Download <Stay = cDeath>Telporter <Coaic name = \"TP\" Paint = 1></style> ({0}%)","OBJECTIVE_CHARGE_TELEPORTER_OOB":"Input <-c goals></style> ({0}%)","OBJECTIVE_FINISH_TELEPORTER":"< > < <></style>","OBJECTIVE_DEFEAT_BOSS":"Defeat the leader!","OBJECTIVE_GOLDSHORES_ACTIVATE_BEACONS":"Reconstruction of the Hal zion projector ({0}/{1})","OBJECTIVE_GOLDSHORES_DEFEAT_BOSS":"Failed{0} {1}","OBJECTIVE_WEEKLYRUN_DESTROY_CRYSTALS":"<: #f37aff> </color> time ({0}/{1})","OBJECTIVE_CLEAR_ARENA":"Allow all air supply ({0}/{1})","OBJECTIVE_ARENA_CHARGE_CELL":"Cell security breach (%{0})","OBJECTIVE_SELFDESTRUCT_ESCAPE":"Immediate schedules"}}

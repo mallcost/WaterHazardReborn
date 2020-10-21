@@ -1,5 +1,5 @@
  {
-	strings:
+	"strings":
 	{
 	"ITEM_PICKUP_CONTEXT" : "Get {0}",
 	"EQUIPMENT_PICKUP_CONTEXT" : "Get {0}",
