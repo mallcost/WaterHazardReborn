@@ -1,5 +1,5 @@
  {
-	"strings":
+	strings:
 	{
 	"ITEM_PICKUP_CONTEXT" : "Get {0}",
 	"EQUIPMENT_PICKUP_CONTEXT" : "Get {0}",
@@ -466,6 +466,6 @@
 	"ITEM_LUNARBADLUCK_NAME" : "Purity",
 	"ITEM_LUNARBADLUCK_PICKUP" : "Reduce your skill cooldowns by 2 seconds. <color=#FF7F7F>You are unlucky.</color>",
 	"ITEM_LUNARBADLUCK_DESC": "All skill cooldowns are reduced by <style=cIsUtility>2</style> <style=cStack>(+1 per stack)</style> seconds. All random effects are rolled <style=cIsUtility>+1</style> <style=cStack>(+1 per stack)</style> times for an <style=cIsHealth>unfavorable outcome</style>.", 
-	"ITEM_LUNARBADLUCK_LORE" : "It looks like starseed, tanning in dirt.\r\nIt smells like hot stone, and tall grass.\r\nIt tastes like spiced fruit, sweet and hot.\r\nIt feels like solar winds, and solar chimes.\r\nIt sounds like two brothers, chasing glass frogs in the sun.\r\n"
+	"ITEM_LUNARBADLUCK_LORE" : "It looks like starseed, tanning in dirt.\r\nIt smells like hot stone, and tall grass.\r\nIt tastes like spiced fruit, sweet and hot.\r\nIt feels like solar winds, and solar chimes.\r\nIt sounds like two brothers, chasing glass frogs in the sun.\r\n",
 	}
 }

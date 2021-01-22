@@ -1,1 +1,27 @@
-{"strings":{"STEAM_PROMOTE_OWNER_TOOLTIP_BODY":"Robyist promoted","STEAM_COPY_LOBBY":"Copy waiting room as paper weight","STEAM_COPY_LOBBY_TO_CLIPBOARD_TOOLTIP_BODY":"Copy the ID of the current lobby as a character printout.","STEAM_COPY_LOBBY_TO_CLIPBOARD_MESSAGE":"I copied the lobby ID to your office.","STEAM_JOIN_LOBBY_ON_CLIPBOARD":"Join the portfolio lobby","STEAM_JOIN_LOBBY_CLIPBOARD_SUCCESS":"Appears in the identity of the lobby.","STEAM_JOIN_LOBBY_CLIPBOARD_FAIL":"The identity of the lobby is wrong.","STEAM_LOBBY_PUBLIC":"Basic","STEAM_LOBBY_PRIVATE":"Special","STEAM_LOBBY_FRIENDSONLY":"Friends.","STEAM_LOBBY_INVISIBLE":"Invisible","STEAM_LOBBY_STATUS_NOT_IN_LOBBY":"He's not in the lobby.","STEAM_LOBBY_STATUS_LAUNCHING_QUICKPLAY":"Entering a fast game...","STEAM_LOBBY_STATUS_QUICKPLAY_SEARCHING_FOR_EXISTING_LOBBY":"Find an existing lobby.","STEAM_LOBBY_STATUS_QUICKPLAY_WAITING_BELOW_MINIMUM_PLAYERS":"We {0}/{1} lobby. I expect more players ...","STEAM_LOBBY_STATUS_QUICKPLAY_WAITING_ABOVE_MINIMUM_PLAYERS":"He was in the hallway{0} {1}{2}","STEAM_LOBBY_STATUS_OUT_OF_QUICKPLAY":"It is not in the Fast Play queue.","STEAM_LOBBY_STATUS_CONNECTING_TO_HOST":"Contact the server.","STEAM_LOBBY_STATUS_STARTING_SERVER":"Server launch...","STEAM_LOBBY_STATUS_GAME_STARTING":"Run the game.","STEAM_LOBBY_VERSION_MISMATCH_DIALOG_TITLE":"Asymmetry version","STEAM_LOBBY_VERSION_MISMATCH_DIALOG_DESCRIPTION":"We couldn't find you fast enough! Game values work in earlier or future releases.\nYour father {0}\nIt's {1}."}}
+{
+  "strings":
+  {
+    "STEAM_PROMOTE_OWNER_TOOLTIP_BODY": "Promote to Lobby Leader",
+    "STEAM_COPY_LOBBY" : "Copy Lobby to Clipboard",
+    "STEAM_COPY_LOBBY_TO_CLIPBOARD_TOOLTIP_BODY": "Copy your current Lobby ID to your Clipboard.",
+    "STEAM_COPY_LOBBY_TO_CLIPBOARD_MESSAGE": "Copied Lobby ID to clipboard.",
+    "STEAM_JOIN_LOBBY_ON_CLIPBOARD": "Join Clipboard Lobby",
+    "STEAM_JOIN_LOBBY_CLIPBOARD_SUCCESS": "Joined Lobby ID.",
+    "STEAM_JOIN_LOBBY_CLIPBOARD_FAIL": "Invalid Lobby ID.",
+    "STEAM_LOBBY_PUBLIC": "Public",
+    "STEAM_LOBBY_PRIVATE": "Private",
+    "STEAM_LOBBY_FRIENDSONLY": "Friends Only",
+    "STEAM_LOBBY_INVISIBLE": "Invisible",
+    "STEAM_LOBBY_STATUS_NOT_IN_LOBBY": "Not in lobby",
+    "STEAM_LOBBY_STATUS_LAUNCHING_QUICKPLAY": "Entering QuickPlay...",
+    "STEAM_LOBBY_STATUS_QUICKPLAY_SEARCHING_FOR_EXISTING_LOBBY": "Searching for an existing lobby...",
+    "STEAM_LOBBY_STATUS_QUICKPLAY_WAITING_BELOW_MINIMUM_PLAYERS": "{0}/{1} in lobby. Waiting for more players...",
+    "STEAM_LOBBY_STATUS_QUICKPLAY_WAITING_ABOVE_MINIMUM_PLAYERS": "{0}/{1} in lobby. Launching in: {2}",
+    "STEAM_LOBBY_STATUS_OUT_OF_QUICKPLAY": "Not in QuickPlay queue.",
+    "STEAM_LOBBY_STATUS_CONNECTING_TO_HOST": "Connecting to host...",
+    "STEAM_LOBBY_STATUS_STARTING_SERVER": "Starting server...",
+	"STEAM_LOBBY_STATUS_GAME_STARTING": "Game starting...",
+	"STEAM_LOBBY_VERSION_MISMATCH_DIALOG_TITLE": "Version Mismatch",
+	"STEAM_LOBBY_VERSION_MISMATCH_DIALOG_DESCRIPTION": "Could not join the lobby. The host of the game is running on a version that is either older or newer than yours.\nYours={0}\nTheirs={1}",
+  }
+}

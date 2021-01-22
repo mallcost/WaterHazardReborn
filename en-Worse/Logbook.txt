@@ -1,1 +1,26 @@
-{"strings":{"LOGBOOK":"Calendar","LOGBOOK_CATEGORY_ITEMANDEQUIPMENT":"Products and accessories","LOGBOOK_CATEGORY_ITEM":"About","LOGBOOK_CATEGORY_EQUIPMENT":"Device","LOGBOOK_CATEGORY_ACHIEVEMENTS":"Call","LOGBOOK_CATEGORY_MONSTER":"Monster","LOGBOOK_CATEGORY_STAGE":"Environment","LOGBOOK_CATEGORY_SURVIVOR":"Victims","LOGBOOK_CATEGORY_FRAGMENT":"Work","LOGBOOK_UNLOCK_ITEM_LOG":"Find this item in the world to unlock this bulky item.","LOGBOOK_UNLOCK_ITEM_MONSTER":"Defeat this monster for a chance to unlock this unit.","LOGBOOK_UNLOCK_ITEM_STAGE":"Find and repair radar towers on site to open this record.","LOGBOOK_UNLOCK_ITEM_SURVIVOR":"Play with this survivor to unlock this record.","LOGBOOK_UNLOCK_ITEM_FRAGMENT":"This plate is an unknown open mode.","LOGBOOK_HOVER_DESCRIPTION_FORMAT":"Mark {2}><b> {0}</b><\n\n</mark><стиль-cSub>{1}</style>","LOGBOOK_ZOOMINOUT":"scaling/zooming","LOGBOOK_ROTATE":"Session","LOGBOOK_PAN":"Fan"}}
+{
+	strings:
+	{
+	"LOGBOOK" : "Logbook",
+	"LOGBOOK_CATEGORY_ITEMANDEQUIPMENT" : "Item & Equipment",
+	"LOGBOOK_CATEGORY_ITEM" : "Item",
+	"LOGBOOK_CATEGORY_EQUIPMENT" : "Equipment",
+	"LOGBOOK_CATEGORY_ACHIEVEMENTS" : "Challenge",
+
+	"LOGBOOK_CATEGORY_MONSTER" : "Monster",
+	"LOGBOOK_CATEGORY_STAGE" : "Environment",
+	"LOGBOOK_CATEGORY_SURVIVOR" : "Survivor",
+	"LOGBOOK_CATEGORY_FRAGMENT" : "Fragment",
+
+	"LOGBOOK_UNLOCK_ITEM_LOG" : "Find this item in the world to unlock this log entry.",
+	"LOGBOOK_UNLOCK_ITEM_MONSTER" : "Defeat this monster for a chance to unlock this log entry.",
+	"LOGBOOK_UNLOCK_ITEM_STAGE" : "Find and repair a Radar Tower in the stage to unlock this log entry.",
+	"LOGBOOK_UNLOCK_ITEM_SURVIVOR" : "Play the game with this survivor to unlock this log entry.",
+	"LOGBOOK_UNLOCK_ITEM_FRAGMENT" : "This log entry has an unknown unlock condition.",
+
+	"LOGBOOK_HOVER_DESCRIPTION_FORMAT" : "<mark=#{2}><b>[ {0} ]</b>\n\n</mark><style=cSub>{1}</style>",
+	"LOGBOOK_ZOOMINOUT" : "Zoom Out/In",
+	"LOGBOOK_ROTATE" : "Rotate",
+	"LOGBOOK_PAN" : "Pan",
+	}
+}

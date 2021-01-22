@@ -1,1 +1,33 @@
-{"strings":{"HOSTGAMEPANEL_TITLE":"Create a multiplayer game","HOSTGAMEPANEL_HEADER_SERVER_SETTINGS":"Game settings","HOSTGAMEPANEL_OPTION_SERVER_NAME":"Name of the game","HOSTGAMEPANEL_OPTION_SERVER_NAME_DESCRIPTION":"The name of the game.","HOSTGAMEPANEL_DEFAULT_SERVER_NAME_FORMAT":"{0}m listening.","HOSTGAMEPANEL_OPTION_GAME_MODE":"Mode","HOSTGAMEPANEL_OPTION_GAME_MODE_DESCRIPTION":"The game mode you want to play.","HOSTGAMEPANEL_OPTION_PASSWORD":"Password","HOSTGAMEPANEL_OPTION_PASSWORD_DESCRIPTION":"Additional game passwords. Players who do not have a password will not be able to participate in the game.","HOSTGAMEPANEL_MAX_PLAYERS":"Maximum number of players","HOSTGAMEPANEL_MAX_PLAYERS_DESCRIPTION":"The maximum number of players allowed in the game.","HOSTGAMEPANEL_MAX_PLAYERS_TOO_MANY_SLOTS_WARNING":"Rain Hazard 2 is designed for up to 4 people. This adversely affects the performance, bandwidth, stability, and balance of the game.","HOSTGAMEPANEL_CUSTOM_TAGS":"Custom tags","HOSTGAMEPANEL_CUSTOM_TAGS_DESCRIPTION":"Playing card option. Players can filter the lobby with cards.","HOSTGAMEPANEL_ALLOW_RULE_VOTING":"allow political voting","HOSTGAMEPANEL_ALLOW_RULE_VOTING_DESCRIPTION":"Players can vote more if they choose questions, items, and characters.","HOSTGAMEPANEL_LOBBY_TYPE":"I can see the lobby.","HOSTGAMEPANEL_LOBBY_TYPE_DESCRIPTION":"Whether the game is public, private or just a friend.\n\nIt has to be public for others to see it.","HOSTGAMEPANEL_ADVERTISE_TO_MASTER_SERVER":"Mark the main character","HOSTGAMEPANEL_ADVERTISE_TO_MASTER_SERVER_DESCRIPTION":"If other players can watch the game in the server browser.","HOSTGAMEPANEL_HOST":"Start playing"}}
+{
+	"strings": {
+		"HOSTGAMEPANEL_TITLE": "Create Multiplayer Game",
+		"HOSTGAMEPANEL_HEADER_SERVER_SETTINGS": "Game Settings",
+		"HOSTGAMEPANEL_OPTION_SERVER_NAME": "Game Name",
+		"HOSTGAMEPANEL_OPTION_SERVER_NAME_DESCRIPTION": "The name of your game.",
+		"HOSTGAMEPANEL_DEFAULT_SERVER_NAME_FORMAT": "{0}'s Listen Server",
+
+		"HOSTGAMEPANEL_OPTION_GAME_MODE": "Game Mode",
+		"HOSTGAMEPANEL_OPTION_GAME_MODE_DESCRIPTION": "The game mode you want to play.",
+
+		"HOSTGAMEPANEL_OPTION_PASSWORD": "Password",
+		"HOSTGAMEPANEL_OPTION_PASSWORD_DESCRIPTION": "An optional password for your game. Players without a password won't be able to join your game.",
+
+		"HOSTGAMEPANEL_MAX_PLAYERS": "Max Players",
+		"HOSTGAMEPANEL_MAX_PLAYERS_DESCRIPTION": "The maximum number of players allowed in your game.",
+		"HOSTGAMEPANEL_MAX_PLAYERS_TOO_MANY_SLOTS_WARNING": "Risk of Rain 2 is designed for a maximum of 4 players. Performance, bandwidth, stability, and game balance may be negatively affected.",
+
+		"HOSTGAMEPANEL_CUSTOM_TAGS": "Custom Tags",
+		"HOSTGAMEPANEL_CUSTOM_TAGS_DESCRIPTION": "Optional tags for your game. Players can filter your lobby with tags.",
+
+		"HOSTGAMEPANEL_ALLOW_RULE_VOTING": "Allow Rule Voting",
+		"HOSTGAMEPANEL_ALLOW_RULE_VOTING_DESCRIPTION": "Whether or not players are allowed to vote for Difficulty, Artifacts, and more while in character selection.",
+
+		"HOSTGAMEPANEL_LOBBY_TYPE": "Lobby Visiblity",
+		"HOSTGAMEPANEL_LOBBY_TYPE_DESCRIPTION": "Whether or not the game is Public, Private, or Friends Only.\n\nMust be set to Public to be displayed for other users.",
+
+		"HOSTGAMEPANEL_ADVERTISE_TO_MASTER_SERVER": "Visible to Master Server",
+		"HOSTGAMEPANEL_ADVERTISE_TO_MASTER_SERVER_DESCRIPTION": "Whether or not the game is visible to other players in their Server Browser.",
+
+		"HOSTGAMEPANEL_HOST": "Start Game"
+	} 
+}
